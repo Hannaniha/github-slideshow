@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-inner peace
+"float like butterfly,sting like a bee"-muhammd ali
 Use the left arrow to go back!
